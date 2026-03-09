@@ -23,13 +23,7 @@
 
 Learning:
 
-- EC2
-- S3
-- RDS
-- Lambda
-- DynamoDB
-- IAM
-- VPC
+EC2 • S3 • RDS • Lambda • DynamoDB • IAM • VPC
 
 ---
 
@@ -37,9 +31,9 @@ Learning:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wlfran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wlfran&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlfran&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wlfran&theme=tokyonight"/>
 
 </div>
 
