@@ -1,63 +1,161 @@
-<h1 align="center">Hi 👋, I'm Steven Forero</h1>
-<h3 align="center">Full Stack Developer | .NET | Angular | SQL Server</h3>
+<div align="center">
+
+# 👨‍💻 Steven Forero
+
+### Full Stack Developer | .NET | Angular | SQL Server | AWS Cloud
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+with+.NET+and+SQL+Server;Frontend+with+Angular+and+React;Learning+AWS+Cloud+☁️" />
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💻 Full Stack Developer focused on **.NET and Angular**
-- 🧠 Passionate about **software architecture and scalable APIs**
-- 📊 Experience working with **SQL Server and performance optimization**
-- 🚀 Always learning new technologies
-
----
-
-### 🚀 Tech Stack
-
-#### Backend
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-black?style=for-the-badge)
-
-#### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+💻 Full Stack Developer focused on modern web applications  
+🎓 Systems and Computing Engineering student  
+⚡ Experience building **APIs, backend services and web applications**  
+📊 Strong background in **SQL Server and backend architecture**  
+☁️ Currently learning **AWS Cloud**
 
 ---
 
-### 🛠 Tools
+# 🚀 Tech Stack
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Azure DevOps](https://img.shields.io/badge/AzureDevOps-blue?style=for-the-badge&logo=azuredevops)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+### Backend
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wlfran&show_icons=true&theme=tokyonight)
+</div>
 
----
-
-### 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlfran&layout=compact&theme=tokyonight)
+- C#
+- .NET / ASP.NET Core
+- REST APIs
+- Dapper
+- SQL Server
 
 ---
 
-### 📫 Connect With Me
+### Frontend
 
-- 💼 LinkedIn
-- 📧 Email
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css" />
+
+</div>
+
+- Angular
+- React
+- TypeScript
+- JavaScript
+- HTML
+- CSS
 
 ---
 
-⭐ *Always learning and improving as a developer.*
+### Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,docker,azure,postman,linux" />
+
+</div>
+
+- Git
+- Azure DevOps
+- Docker
+- Postman
+- Linux
+
+---
+
+# ☁️ Cloud & AWS
+
+Currently studying:
+
+🎓 **AWS Certified Cloud Practitioner (CLF-C02)**
+
+Learning topics:
+
+- Cloud Computing Fundamentals
+- AWS Global Infrastructure
+- Regions & Availability Zones
+- Shared Responsibility Model
+- Identity and Access Management (IAM)
+- EC2 (Compute)
+- S3 (Storage)
+- RDS (Databases)
+- Lambda (Serverless)
+- DynamoDB
+- VPC Networking
+- Cloud Pricing & Billing
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wlfran&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlfran&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Wlfran&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Wlfran&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 💼 Professional Focus
+
+✔ Backend development with **C# / ASP.NET Core**  
+✔ Database design and optimization with **SQL Server**  
+✔ REST API development  
+✔ Frontend development with **Angular & React**  
+✔ Cloud learning with **AWS**
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Wlfran">
+<img src="https://img.shields.io/badge/GitHub-Wlfran-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Always learning and building new things
+
+</div>
