@@ -35,13 +35,10 @@ Learning:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=Wlfran&show_icons=true&theme=tokyonight)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlfran&layout=compact&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wlfran&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlfran&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
